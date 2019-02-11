@@ -1,0 +1,2 @@
+punycode4fuzzing
+直接在想要测试的浏览器打开即可，按照步骤进行操作。fuzzing过程可能较慢。
